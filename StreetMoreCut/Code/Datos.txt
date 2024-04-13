@@ -1,0 +1,144 @@
+(A, B) - CORRECTO
+(A, C) - CORRECTO
+(A, D) - CORRECTO
+(A, E) - CORRECTO
+(A, F) - CORRECTO
+(A, G) - CORRECTO
+(A, H) - INCORRECTO (Deberia ser la ruta A-C-J-K Para un costo final de 40 pero nos hace A -> B -> E -> H con un costo de 55) CORREGIDO
+(A, I) - CORRECTO
+(A, J) - CORRECTO
+(A, K) - CORRECTO
+(A, L) - CORRECTO
+(B, C) - CORRECTO
+(B, D) - CORRECTO 
+(B, E) - CORRECTO
+(B, F) - CORRECTO
+(B, G) - CORRECTO
+(B, H) - INCORRECTO (Deberia ser A-B-E-J-H para un costo Final de 41 pero nos hace La ruta más corta es: B -> E -> H con un costo de 45)CORREGIDO
+(B, I) - CORRECTO
+(B, J) - CORRECTO
+(B, K) - CORRECTO
+(B, L) - CORRECTO
+(C, D) - CORRECTO
+(C, E) - CORRECTO
+(C, F) - CORRECTO
+(C, G) - CORRECTO
+(C, H) - INCORRECTO (Deberia ser C-J-H para un costo final de 32 pero nos hace  C -> J -> E -> H con un costo de 52)CORREGIDO
+(C, I) - CORRECTO
+(C, J) - CORRECTO
+(C, K) - CORRECTO
+(C, L) - CORRECTO
+(D, E) - CORRECTO
+(D, F) - CORRECTO
+(D, G) - CORRECTO 
+(D, H) - INCORRECTO (Deberia ser D-G-F-J-H Para un valor de 41 ya que nos esta dando que de D - H Seria  D -> G -> F -> L -> H con un valor de 44)CORREGIDO
+(D, I) - CORRECTO
+(D, J) - CORRECTO
+(D, K) - CORRECTO
+(D, L) - CORRECTO
+(E, F) - CORRECTO
+(E, G) - CORRECTO
+(E, H) - CORRECTO
+(E, I) - CORRECTO
+(E, J) - CORRECTO
+(E, K) - CORRECTO
+(E, L) - CORRECTO
+(F, G) - CORRECTO
+(F, H) - INCORRECTO (Deberia ser F - J - H Con un valor de 27 pero hace  F -> L -> H con un valor final de 30)CORREGIDO
+(F, I) - CORRECTO
+(F, J) - CORRECTO
+(F, K) - CORRECTO
+(F, L) - CORRECTO
+(G, H) - INCORRECTO (Deberia ser el mas corto G-F-H-H Para un costo final de 35 pero nos hace  G -> F -> L -> H con un costo final de 38)CORREGIDO
+(G, I) - CORRECTO
+(G, J) - CORRECTO
+(G, K) - CORRECTO
+(G, L) - CORRECTO
+(H, I) - CORRECTO
+(H, J) - INCORRECTO (Deberia ser el mas corto H-J Con un costo final de 18 pero nos hace H -> E -> J con un costo de 38)CORREGIDO
+(H, K) - CORRECTO
+(H, L) - CORRECTO
+(I, J) - CORRECTO
+(I, K) - CORRECTO
+(I, L) - CORRECTO
+(J, K) - CORRECTO
+(J, L) - CORRECTO
+(K, L) - CORRECTO
+
+
+
+  //_______________
+
+
+DESPUES DE LA CORRECION: VERIFICACION
+
+
+  //_______________
+
+
+(A, B) - VERIFICADO
+(A, C) - VERIFICADO
+(A, D) - VERIFICADO
+(A, E) - VERIFICADO
+(A, F) - VERIFICADO
+(A, G) - VERIFICADO
+(A, H) - VERIFICADO
+(A, I) - VERIFICADO
+(A, J) - VERIFICADO
+(A, K) - VERIFICADO
+(A, L) - VERIFICADO
+(B, C) - VERIFICADO
+(B, D) - VERIFICADO 
+(B, E) - VERIFICADO
+(B, F) - VERIFICADO
+(B, G) - VERIFICADO
+(B, H) - VERIFICADO
+(B, I) - VERIFICADO
+(B, J) - VERIFICADO
+(B, K) - VERIFICADO
+(B, L) - VERIFICADO
+(C, D) - VERIFICADO
+(C, E) - VERIFICADO
+(C, F) - VERIFICADO
+(C, G) - VERIFICADO
+(C, H) - VERIFICADO
+(C, I) - VERIFICADO
+(C, J) - VERIFICADO
+(C, K) - VERIFICADO
+(C, L) - VERIFICADO
+(D, E) - VERIFICADO
+(D, F) - VERIFICADO
+(D, G) - VERIFICADO 
+(D, H) - VERIFICADO
+(D, I) - VERIFICADO
+(D, J) - VERIFICADO
+(D, K) - VERIFICADO
+(D, L) - VERIFICADO
+(E, F) - VERIFICADO
+(E, G) - VERIFICADO
+(E, H) - VERIFICADO
+(E, I) - VERIFICADO
+(E, J) - VERIFICADO
+(E, K) - VERIFICADO
+(E, L) - VERIFICADO
+(F, G) - VERIFICADO
+(F, H) - VERIFICADO
+(F, I) - VERIFICADO
+(F, J) - VERIFICADO
+(F, K) - VERIFICADO
+(F, L) - VERIFICADO
+(G, H) - VERIFICADO
+(G, I) - VERIFICADO
+(G, J) - VERIFICADO
+(G, K) - VERIFICADO
+(G, L) - VERIFICADO
+(H, I) - VERIFICADO
+(H, J) - VERIFICADO
+(H, K) - VERIFICADO
+(H, L) - VERIFICADO
+(I, J) - VERIFICADO
+(I, K) - VERIFICADO
+(I, L) - VERIFICADO
+(J, K) - VERIFICADO
+(J, L) - VERIFICADO
+(K, L) - VERIFICADO
